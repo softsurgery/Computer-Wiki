@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e7d9d103cc75fb8",
+        "id": "3b41c84f799ff1cf",
         "type": "tabs",
         "children": [
           {
-            "id": "eee256b939b2ace4",
+            "id": "85217fe05ef2d695",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/MERN Web Development.md",
+                "file": "Programming Languages/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/MERN Web Development.md",
+                "file": "Programming Languages/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/MERN Web Development.md",
+                "file": "Programming Languages/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/MERN Web Development.md"
+                "file": "Programming Languages/Python.md"
               }
             }
           }
@@ -146,32 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee256b939b2ace4",
+  "active": "85217fe05ef2d695",
   "lastOpenFiles": [
-    "Web Development/MERN Web Development/Additional Resources/State Management.md",
-    "Web Development/MERN Web Development.md",
     "Computer Wiki.md",
+    "Programming Languages/Python/Basics/03-Variables.md",
+    "Programming Languages/Python/Basics/03-Variables/Output Variable.md",
+    "Programming Languages/Python/Basics/03-Variables/Variable Names.md",
+    "Programming Languages/Python/Basics/03-Variables/Assign Multiple Values.md",
+    "Programming Languages/Python.md",
+    "Programming Languages/Python/Basics/02-Data Types.md",
+    "Programming Languages/Python/Basics/01-Python Syntax.md",
+    "Programming Languages/Python/Basics/03-Variables",
+    "Programming Languages/Python/Basics",
+    "Web Development/MERN Web Development.md",
+    "Web Development/MERN Web Development/Libraries/Mobx.md",
     "Web Development/MERN Web Development/Additional Resources/What is an API?.md",
+    "Web Development/MERN Web Development/React/React Environment (Deprecated).md",
+    "Web Development/MERN Web Development/Technologies & Tools/Set Up MongoDB.md",
+    "1st Layer Topics/Github.md",
+    "Databases/Oracle Database.md",
+    "Web Development/MERN Web Development/React/React Components.md",
+    "Archive/Pascal.md",
+    "Programming Languages/C Language.md",
+    "Programming Languages/C Language",
+    "Programming Languages/Python",
+    "Web Development/MERN Web Development/React/React Components/Progressive Typing.md",
+    "Web Development/MERN Web Development/Additional Resources/State Management.md",
     "Web Development/MERN Web Development/Additional Resources",
     "Web Development/MERN Web Development/Libraries/Redux.md",
     "Web Development/MERN Web Development/Libraries",
-    "Web Development/MERN Web Development/React/React Environment (Deprecated).md",
-    "Web Development/MERN Web Development/React/React Components.md",
     "Web Development/MERN Web Development/React/React Components/Donut Chart.md",
-    "Web Development/MERN Web Development/React/React Components/Progressive Typing.md",
     "Web Development/MERN Web Development/React/React Components/3D Hover Card.md",
     "Web Development/MERN Web Development/React/React Components",
-    "Web Development/MERN Web Development/Technologies & Tools/Set Up MongoDB.md",
-    "1st Layer Topics/Github.md",
     "Web Development/MERN Web Development/React",
     "Technologies & Tools.md",
     "Web Development/MERN Web Development/Technologies & Tools.md",
     "Web Development/MERN Web Development/Technologies & Tools",
     "Web Development/MERN Web Development",
-    "1st Layer Topics/Github/Untitled.md",
-    "1st Layer Topics/Github",
-    "Archive",
-    "Mathematics",
-    "Artificial Intelligence"
+    "1st Layer Topics/Github/Untitled.md"
   ]
 }
