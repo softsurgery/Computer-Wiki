@@ -7,11 +7,11 @@ In this section, I'm creating rich computer's contents to systematize the new th
 # Programming Languages
 * [[C Language]]
 * [[Python]]
-
 # Databases
 * [[Oracle Database]]
 # Web Development
 * [[MERN Web Development]]
+* [[Strapi CMS]]
 # Mobile Development
 # Networking
 # Cloud Computing

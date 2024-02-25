@@ -1,0 +1,6 @@
+Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device.
+
+The original purpose of the project was to help Bootstrap your API: that's how Strapi was created. Now, Strapi is an open-source headless CMS that gives developers the freedom to choose their favorite tools and frameworks and allows editors to manage and distribute their content using their application's admin panel. Based on a plugin system, Strapi is a flexible CMS whose admin panel and API are extensible - and which every part is customizable to match any use case. Strapi also has a built-in user system to manage in detail what the administrators and end users have access to.
+
+* [[Web Development/Strapi CMS/Installation|Installation]]
+* [[Project Structure]]
