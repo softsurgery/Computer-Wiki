@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python.md",
-                "mode": "source",
+                "file": "Computer Wiki.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python.md",
+                "file": "Computer Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python.md",
+                "file": "Computer Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python.md"
+                "file": "Computer Wiki.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "85217fe05ef2d695",
   "lastOpenFiles": [
+    "Web Development/MERN Web Development.md",
+    "Web Development/MERN Web Development/Additional Resources/What is an API?.md",
+    "Web Development/MERN Web Development/React/React Hooks.md",
+    "Web Development/MERN Web Development/Additional Resources/State Management.md",
+    "Web Development/MERN Web Development/Additional Resources/State Managemet.md",
+    "Web Development/MERN Web Development/Additional Resources/Say No to SQL.md",
+    "Web Development/MERN Web Development/Libraries/Mobx/React integration.md",
+    "Web Development/MERN Web Development/Libraries/Mobx.md",
+    "Web Development/MERN Web Development/Technologies & Tools/Set Up MongoDB.md",
+    "Web Development/MERN Web Development/Libraries/Redux.md",
     "Computer Wiki.md",
+    "Web Development/MERN Web Development/Libraries/Mobx",
+    "Programming Languages/Python.md",
+    "Programming Languages/Python/Basics/10- Lambda Expression.md",
+    "Programming Languages/Python/Basics/06-Booleans.md",
+    "Programming Languages/C Language.md",
+    "Programming Languages/Python/Basics/09-Functions.md",
+    "Programming Languages/Python/Basics/08-Loops.md",
+    "Programming Languages/Python/Basics/07-Conditions.md",
+    "Programming Languages/Python/Basics/05- Casting.md",
+    "Programming Languages/Python/Basics/04-Operators.md",
     "Programming Languages/Python/Basics/03-Variables.md",
+    "Programming Languages/Python/Basics/01-Python Syntax.md",
+    "Web Development/MERN Web Development/React/React Hooks/What is a React Side-Effect?.md",
+    "Web Development/MERN Web Development/React/React Hooks",
     "Programming Languages/Python/Basics/03-Variables/Output Variable.md",
     "Programming Languages/Python/Basics/03-Variables/Variable Names.md",
     "Programming Languages/Python/Basics/03-Variables/Assign Multiple Values.md",
-    "Programming Languages/Python.md",
-    "Programming Languages/Python/Basics/02-Data Types.md",
-    "Programming Languages/Python/Basics/01-Python Syntax.md",
     "Programming Languages/Python/Basics/03-Variables",
     "Programming Languages/Python/Basics",
-    "Web Development/MERN Web Development.md",
-    "Web Development/MERN Web Development/Libraries/Mobx.md",
-    "Web Development/MERN Web Development/Additional Resources/What is an API?.md",
-    "Web Development/MERN Web Development/React/React Environment (Deprecated).md",
-    "Web Development/MERN Web Development/Technologies & Tools/Set Up MongoDB.md",
-    "1st Layer Topics/Github.md",
-    "Databases/Oracle Database.md",
-    "Web Development/MERN Web Development/React/React Components.md",
-    "Archive/Pascal.md",
-    "Programming Languages/C Language.md",
     "Programming Languages/C Language",
     "Programming Languages/Python",
-    "Web Development/MERN Web Development/React/React Components/Progressive Typing.md",
-    "Web Development/MERN Web Development/Additional Resources/State Management.md",
     "Web Development/MERN Web Development/Additional Resources",
-    "Web Development/MERN Web Development/Libraries/Redux.md",
     "Web Development/MERN Web Development/Libraries",
-    "Web Development/MERN Web Development/React/React Components/Donut Chart.md",
-    "Web Development/MERN Web Development/React/React Components/3D Hover Card.md",
     "Web Development/MERN Web Development/React/React Components",
-    "Web Development/MERN Web Development/React",
-    "Technologies & Tools.md",
-    "Web Development/MERN Web Development/Technologies & Tools.md",
-    "Web Development/MERN Web Development/Technologies & Tools",
-    "Web Development/MERN Web Development",
-    "1st Layer Topics/Github/Untitled.md"
+    "Web Development/MERN Web Development/React"
   ]
 }

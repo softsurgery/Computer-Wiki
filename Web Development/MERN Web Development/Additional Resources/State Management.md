@@ -72,8 +72,6 @@ Components that aware of the store are called smart components and Components th
 
 Refreshing or reloading the page will lose the entire state of the application. That’s when localstorage comes into the picture. The whole state of the app is serialized and saved into localstorage just before the reloading the page and the entire state is deserialized from the localstorage and reinitialize the state of the app. This is called rehydrating the store.
 
-!https://miro.medium.com/v2/resize:fit:700/1*X0ESKttd3pVlO4slb_himw.png
-
 Sometimes we have to make API calls to fetch the data for the app. Whenever the store needs data from the backend API, it uses thunk API to make an API call and fetch the data and update the store.
 
 # **Other Libraries:**

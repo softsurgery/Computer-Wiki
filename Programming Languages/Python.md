@@ -29,6 +29,13 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 * [[01-Python Syntax]]
 * [[02-Data Types]]
 * [[03-Variables]]
+* [[04-Operators]]
+* [[05- Casting]]
+* [[06-Booleans]]
+* [[07-Conditions]]
+* [[08-Loops]]
+* [[09-Functions]]
+* [[10- Lambda Expression]]
 
 
 

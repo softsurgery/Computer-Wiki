@@ -1,21 +1,21 @@
 In this section, I'm creating rich computer's contents to systematize the new things I uncover while studying or surfing the Internet.
 
 # 1st Layer Topics 
-* ## [[Github]] 
+* [[Github]] 
 # Architecture & Operating Systems
 
 # Programming Languages
-* ## [[C Language]]
-* ## [[Python]]
+* [[C Language]]
+* [[Python]]
 
 # Databases
-* ## [[Oracle Database]]
+* [[Oracle Database]]
 # Web Development
-* ## [[MERN Web Development]]
+* [[MERN Web Development]]
 # Mobile Development
 # Networking
 # Cloud Computing
 # Artificial Intelligence
 # Mathematics 
 # Archive
-* ## [[Pascal]]
+* [[Pascal]]
