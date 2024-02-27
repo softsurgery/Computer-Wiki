@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Strapi CMS.md",
+                "file": "Projects/Invoice Generator.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Strapi CMS.md",
+                "file": "Projects/Invoice Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Strapi CMS.md",
+                "file": "Projects/Invoice Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Strapi CMS.md"
+                "file": "Projects/Invoice Generator.md"
               }
             }
           }
@@ -148,14 +148,22 @@
   },
   "active": "85217fe05ef2d695",
   "lastOpenFiles": [
-    "Web Development/Strapi CMS/Project Structure.md",
+    "Projects/Invoice Generator/What's a PO Number ?.md",
+    "Projects/Invoice Generator/Is having a Purchase Order (PO) number for my invoice model necessary?.md",
+    "Projects/Invoice Generator.md",
+    "Projects/Invoice Generator",
+    "Computer Wiki.md",
+    "Projects",
     "Web Development/Strapi CMS.md",
+    "Web Development/Strapi CMS/Configurtion/Database.md",
+    "Web Development/Strapi CMS/Configurtion",
+    "Web Development/MERN Web Development.md",
+    "Web Development/Strapi CMS/Project Structure.md",
+    "Web Development/Strapi CMS/Configuration.md",
     "Web Development/Strapi CMS/Installation.md",
     "Web Development/MERN Web Development/Technologies & Tools/Set Up MongoDB.md",
     "Web Development/MERN Web Development/Libraries/Mobx/React integration.md",
     "Web Development/MERN Web Development/Libraries/Mobx.md",
-    "Web Development/MERN Web Development.md",
-    "Computer Wiki.md",
     "Web Development/MERN Web Development/Installation.md",
     "Web Development/Strapi CMS",
     "Web Development/MERN Web Development/Additional Resources/What is an API?.md",
@@ -171,18 +179,10 @@
     "Programming Languages/C Language.md",
     "Programming Languages/Python/Basics/09-Functions.md",
     "Programming Languages/Python/Basics/08-Loops.md",
-    "Programming Languages/Python/Basics/07-Conditions.md",
-    "Programming Languages/Python/Basics/05- Casting.md",
-    "Programming Languages/Python/Basics/04-Operators.md",
-    "Programming Languages/Python/Basics/03-Variables.md",
-    "Programming Languages/Python/Basics/01-Python Syntax.md",
     "Web Development/MERN Web Development/React/React Hooks",
     "Programming Languages/Python/Basics/03-Variables",
     "Programming Languages/Python/Basics",
     "Programming Languages/C Language",
-    "Programming Languages/Python",
-    "Web Development/MERN Web Development/Additional Resources",
-    "Web Development/MERN Web Development/Libraries",
-    "Web Development/MERN Web Development/React/React Components"
+    "Programming Languages/Python"
   ]
 }

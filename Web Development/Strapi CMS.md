@@ -4,3 +4,4 @@ The original purpose of the project was to help Bootstrap your API: that's how S
 
 * [[Web Development/Strapi CMS/Installation|Installation]]
 * [[Project Structure]]
+* [[Configuration]]
