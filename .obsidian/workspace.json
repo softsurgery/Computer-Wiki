@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85217fe05ef2d695",
+            "id": "008c51b09702760e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Invoice Generator.md",
-                "mode": "preview",
+                "file": "Web Development/Django/W3School/Create App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "427d5e0f70adc3b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Django/W3School/Create Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33658f19de98c72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Django/Implement JWT.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Invoice Generator.md",
+                "file": "Web Development/Django/Implement JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Invoice Generator.md",
+                "file": "Web Development/Django/Implement JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Invoice Generator.md"
+                "file": "Web Development/Django/Implement JWT.md"
               }
             }
           }
@@ -146,43 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85217fe05ef2d695",
+  "active": "33658f19de98c72f",
   "lastOpenFiles": [
-    "Projects/Invoice Generator/What's a PO Number ?.md",
-    "Projects/Invoice Generator/Is having a Purchase Order (PO) number for my invoice model necessary?.md",
-    "Projects/Invoice Generator.md",
-    "Projects/Invoice Generator",
-    "Computer Wiki.md",
-    "Projects",
-    "Web Development/Strapi CMS.md",
-    "Web Development/Strapi CMS/Configurtion/Database.md",
-    "Web Development/Strapi CMS/Configurtion",
+    "Web Development/Django.md",
+    "Web Development/Django/Implement JWT.md",
+    "Web Development/Django/W3School/Create Project.md",
+    "Web Development/Django/W3School/Delete Data.md",
+    "Web Development/MERN Web Development/React/React Context API.md",
     "Web Development/MERN Web Development.md",
-    "Web Development/Strapi CMS/Project Structure.md",
-    "Web Development/Strapi CMS/Configuration.md",
-    "Web Development/Strapi CMS/Installation.md",
-    "Web Development/MERN Web Development/Technologies & Tools/Set Up MongoDB.md",
-    "Web Development/MERN Web Development/Libraries/Mobx/React integration.md",
     "Web Development/MERN Web Development/Libraries/Mobx.md",
-    "Web Development/MERN Web Development/Installation.md",
-    "Web Development/Strapi CMS",
-    "Web Development/MERN Web Development/Additional Resources/What is an API?.md",
-    "Web Development/MERN Web Development/React/React Hooks.md",
+    "Web Development/MERN Web Development/Libraries/Mobx/React integration.md",
+    "Web Development/Django/Swagger UI.md",
+    "Web Development/Django/Define Relationships Between Models.md",
+    "FreeCodeCamp.md",
+    "Computer Wiki.md",
+    "Web Development/Django/W3School/Create App.md",
+    "Web Development/Django/W3School/Getting Started.md",
+    "Web Development/Django/W3School",
+    "Web Development/Django/W3School/Models.md",
     "Web Development/MERN Web Development/Additional Resources/State Management.md",
-    "Web Development/MERN Web Development/Additional Resources/State Managemet.md",
+    "Web Development/Django/W3School/Update Model.md",
+    "Web Development/Django/W3School/Update Data.md",
+    "Web Development/Django/W3School/Insert Data.md",
+    "Web Development/Django/W3School/Templates.md",
+    "Web Development/Django/W3School/URLs.md",
+    "Web Development/Django/W3School/Views.md",
+    "Web Development/Django",
+    "Web Development/Strapi CMS.md",
+    "Web Development/MERN Web Development/React/React Environment (Deprecated).md",
     "Web Development/MERN Web Development/Additional Resources/Say No to SQL.md",
-    "Web Development/MERN Web Development/Libraries/Redux.md",
+    "Web Development/MERN Web Development/Additional Resources/What is an API?.md",
+    "Projects/Invoice Generator",
+    "Projects",
+    "Web Development/Strapi CMS/Configurtion",
+    "Web Development/Strapi CMS",
     "Web Development/MERN Web Development/Libraries/Mobx",
-    "Programming Languages/Python.md",
-    "Programming Languages/Python/Basics/10- Lambda Expression.md",
-    "Programming Languages/Python/Basics/06-Booleans.md",
-    "Programming Languages/C Language.md",
-    "Programming Languages/Python/Basics/09-Functions.md",
-    "Programming Languages/Python/Basics/08-Loops.md",
     "Web Development/MERN Web Development/React/React Hooks",
     "Programming Languages/Python/Basics/03-Variables",
-    "Programming Languages/Python/Basics",
-    "Programming Languages/C Language",
-    "Programming Languages/Python"
+    "Programming Languages/Python/Basics"
   ]
 }
