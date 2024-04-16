@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Django/W3School/Create App.md",
+                "file": "Web Development/Electron.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Electron/Electron and React.md",
+                "file": "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Electron/Electron and React.md",
+                "file": "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Electron/Electron and React.md",
+                "file": "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Electron/Electron and React.md"
+                "file": "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md"
               }
             }
           }
@@ -173,19 +173,26 @@
   },
   "active": "33658f19de98c72f",
   "lastOpenFiles": [
+    "Courses/Prompt Engineering for ChatGPT/Week1/Motivating Example Building a Meal Plan with a Fusion of Food from Ethiopia and Uzbekistan that is Keto.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
+    "Courses/Prompt Engineering for ChatGPT.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1",
+    "Courses/Prompt Engineering for ChatGPT",
+    "Computer Wiki.md",
+    "Courses",
+    "Web Development/Electron/MySQL & Electron.md",
     "Web Development/Electron.md",
-    "Web Development/Electron/Electron and React.md",
+    "Web Development/Django/W3School/Create App.md",
+    "Web Development/Django/W3School/Create Project.md",
     "Web Development/Electron/Building your First App.md",
     "Web Development/Electron/Prerequisites.md",
     "Web Development/Electron",
-    "Computer Wiki.md",
     "Projects/Invoice Generator.md",
     "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
     "Databases/MySQL.md",
     "Databases/MySQL",
     "Web Development/Django.md",
     "Web Development/Django/Implement JWT.md",
-    "Web Development/Django/W3School/Create Project.md",
     "Web Development/Django/W3School/Delete Data.md",
     "Web Development/MERN Web Development/React/React Context API.md",
     "Web Development/MERN Web Development.md",
@@ -194,20 +201,13 @@
     "Web Development/Django/Swagger UI.md",
     "Web Development/Django/Define Relationships Between Models.md",
     "FreeCodeCamp.md",
-    "Web Development/Django/W3School/Create App.md",
     "Web Development/Django/W3School/Getting Started.md",
     "Web Development/Django/W3School",
     "Web Development/Django/W3School/Models.md",
     "Web Development/MERN Web Development/Additional Resources/State Management.md",
-    "Web Development/Django/W3School/Update Model.md",
-    "Web Development/Django/W3School/Update Data.md",
-    "Web Development/Django/W3School/Insert Data.md",
     "Web Development/Django",
     "Projects/Invoice Generator",
     "Projects",
-    "Web Development/Strapi CMS/Configurtion",
-    "Web Development/Strapi CMS",
-    "Web Development/MERN Web Development/Libraries/Mobx",
-    "Web Development/MERN Web Development/React/React Hooks"
+    "Web Development/Strapi CMS/Configurtion"
   ]
 }
