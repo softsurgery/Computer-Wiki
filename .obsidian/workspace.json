@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Django/Implement JWT.md",
+                "file": "Web Development/Electron/Electron and React.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Django/Implement JWT.md",
+                "file": "Web Development/Electron/Electron and React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Django/Implement JWT.md",
+                "file": "Web Development/Electron/Electron and React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Django/Implement JWT.md"
+                "file": "Web Development/Electron/Electron and React.md"
               }
             }
           }
@@ -173,6 +173,16 @@
   },
   "active": "33658f19de98c72f",
   "lastOpenFiles": [
+    "Web Development/Electron.md",
+    "Web Development/Electron/Electron and React.md",
+    "Web Development/Electron/Building your First App.md",
+    "Web Development/Electron/Prerequisites.md",
+    "Web Development/Electron",
+    "Computer Wiki.md",
+    "Projects/Invoice Generator.md",
+    "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
+    "Databases/MySQL.md",
+    "Databases/MySQL",
     "Web Development/Django.md",
     "Web Development/Django/Implement JWT.md",
     "Web Development/Django/W3School/Create Project.md",
@@ -184,7 +194,6 @@
     "Web Development/Django/Swagger UI.md",
     "Web Development/Django/Define Relationships Between Models.md",
     "FreeCodeCamp.md",
-    "Computer Wiki.md",
     "Web Development/Django/W3School/Create App.md",
     "Web Development/Django/W3School/Getting Started.md",
     "Web Development/Django/W3School",
@@ -193,21 +202,12 @@
     "Web Development/Django/W3School/Update Model.md",
     "Web Development/Django/W3School/Update Data.md",
     "Web Development/Django/W3School/Insert Data.md",
-    "Web Development/Django/W3School/Templates.md",
-    "Web Development/Django/W3School/URLs.md",
-    "Web Development/Django/W3School/Views.md",
     "Web Development/Django",
-    "Web Development/Strapi CMS.md",
-    "Web Development/MERN Web Development/React/React Environment (Deprecated).md",
-    "Web Development/MERN Web Development/Additional Resources/Say No to SQL.md",
-    "Web Development/MERN Web Development/Additional Resources/What is an API?.md",
     "Projects/Invoice Generator",
     "Projects",
     "Web Development/Strapi CMS/Configurtion",
     "Web Development/Strapi CMS",
     "Web Development/MERN Web Development/Libraries/Mobx",
-    "Web Development/MERN Web Development/React/React Hooks",
-    "Programming Languages/Python/Basics/03-Variables",
-    "Programming Languages/Python/Basics"
+    "Web Development/MERN Web Development/React/React Hooks"
   ]
 }

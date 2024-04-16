@@ -13,6 +13,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[MERN Web Development]]
 * [[Strapi CMS]]
 * [[Django]]
+* [[Electron]]
 # Mobile Development
 # Networking
 # Cloud Computing
