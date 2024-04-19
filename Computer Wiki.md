@@ -8,7 +8,9 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[C Language]]
 * [[Python]]
 # Databases
+* [[Theory]]
 * [[Oracle Database]]
+* [[MySQL]]
 # Web Development
 * [[MERN Web Development]]
 * [[Strapi CMS]]
