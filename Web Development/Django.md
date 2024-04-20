@@ -38,9 +38,8 @@ Django is a free and open-source, Python-based web framework that follows the mo
 * [[Update Data]]
 * [[Delete Data]]
 * [[Update Model]]
-# Templates
+# Additional Resources
 ---
-
 * [[Define Relationships Between Models]]
 * [[Implement JWT]]
 * [[Swagger UI]]

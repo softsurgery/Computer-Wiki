@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3b41c84f799ff1cf",
+        "id": "2f837cd2f1a8657b",
         "type": "tabs",
         "children": [
           {
-            "id": "008c51b09702760e",
+            "id": "982335c3a1a7be7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Django/W3School/Create App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "427d5e0f70adc3b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Django/W3School/Create Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33658f19de98c72f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Django/Implement JWT.md",
+                "file": "Computer Wiki.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Django/Implement JWT.md",
+                "file": "Computer Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Django/Implement JWT.md",
+                "file": "Computer Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Django/Implement JWT.md"
+                "file": "Computer Wiki.md"
               }
             }
           }
@@ -171,21 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33658f19de98c72f",
+  "active": "982335c3a1a7be7f",
   "lastOpenFiles": [
     "Web Development/Django.md",
-    "Web Development/Django/Implement JWT.md",
+    "Web Development/Django/W3School/Create App.md",
     "Web Development/Django/W3School/Create Project.md",
+    "Web Development/Django/Swagger UI.md",
+    "Web Development/Django/Implement JWT.md",
     "Web Development/Django/W3School/Delete Data.md",
     "Web Development/MERN Web Development/React/React Context API.md",
     "Web Development/MERN Web Development.md",
     "Web Development/MERN Web Development/Libraries/Mobx.md",
     "Web Development/MERN Web Development/Libraries/Mobx/React integration.md",
-    "Web Development/Django/Swagger UI.md",
     "Web Development/Django/Define Relationships Between Models.md",
     "FreeCodeCamp.md",
     "Computer Wiki.md",
-    "Web Development/Django/W3School/Create App.md",
     "Web Development/Django/W3School/Getting Started.md",
     "Web Development/Django/W3School",
     "Web Development/Django/W3School/Models.md",
