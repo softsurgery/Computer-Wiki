@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Wiki.md",
+                "file": "Web Development/Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Wiki.md",
+                "file": "Web Development/Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Wiki.md",
+                "file": "Web Development/Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Wiki.md"
+                "file": "Web Development/Django.md"
               }
             }
           }
@@ -148,6 +148,25 @@
   },
   "active": "982335c3a1a7be7f",
   "lastOpenFiles": [
+    "Computer Wiki.md",
+    "Web Development/Electron/Prerequisites.md",
+    "Web Development/Electron/MySQL & Electron.md",
+    "Web Development/Electron/Hide MenuBar.md",
+    "Web Development/Electron/Building your First App.md",
+    "Web Development/Electron",
+    "Web Development/Electron.md",
+    "Databases/Theory/How To Deal With a Database With Billions of Records ?.md",
+    "Databases/Theory",
+    "Databases/Theory.md",
+    "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
+    "Databases/MySQL",
+    "Databases/MySQL.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1/Motivating Example Building a Meal Plan with a Fusion of Food from Ethiopia and Uzbekistan that is Keto.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1",
+    "Courses/Prompt Engineering for ChatGPT.md",
+    "Courses/Prompt Engineering for ChatGPT",
+    "Courses",
     "Web Development/Django.md",
     "Web Development/Django/W3School/Create App.md",
     "Web Development/Django/W3School/Create Project.md",
@@ -160,29 +179,10 @@
     "Web Development/MERN Web Development/Libraries/Mobx/React integration.md",
     "Web Development/Django/Define Relationships Between Models.md",
     "FreeCodeCamp.md",
-    "Computer Wiki.md",
     "Web Development/Django/W3School/Getting Started.md",
     "Web Development/Django/W3School",
-    "Web Development/Django/W3School/Models.md",
-    "Web Development/MERN Web Development/Additional Resources/State Management.md",
-    "Web Development/Django/W3School/Update Model.md",
-    "Web Development/Django/W3School/Update Data.md",
-    "Web Development/Django/W3School/Insert Data.md",
-    "Web Development/Django/W3School/Templates.md",
-    "Web Development/Django/W3School/URLs.md",
-    "Web Development/Django/W3School/Views.md",
     "Web Development/Django",
-    "Web Development/Strapi CMS.md",
-    "Web Development/MERN Web Development/React/React Environment (Deprecated).md",
-    "Web Development/MERN Web Development/Additional Resources/Say No to SQL.md",
-    "Web Development/MERN Web Development/Additional Resources/What is an API?.md",
     "Projects/Invoice Generator",
-    "Projects",
-    "Web Development/Strapi CMS/Configurtion",
-    "Web Development/Strapi CMS",
-    "Web Development/MERN Web Development/Libraries/Mobx",
-    "Web Development/MERN Web Development/React/React Hooks",
-    "Programming Languages/Python/Basics/03-Variables",
-    "Programming Languages/Python/Basics"
+    "Projects"
   ]
 }

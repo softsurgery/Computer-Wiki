@@ -8,11 +8,14 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[C Language]]
 * [[Python]]
 # Databases
+* [[Theory]]
 * [[Oracle Database]]
+* [[MySQL]]
 # Web Development
 * [[MERN Web Development]]
 * [[Strapi CMS]]
 * [[Django]]
+* [[Electron]]
 # Mobile Development
 # Networking
 # Cloud Computing
@@ -21,4 +24,5 @@ In this section, I'm creating rich computer's contents to systematize the new th
 # Archive
 * [[Pascal]]
 # Projects
-* 
+
+# Courses
