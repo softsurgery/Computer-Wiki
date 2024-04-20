@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Django.md",
+                "file": "Computer Wiki.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Django.md",
+                "file": "Computer Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Django.md",
+                "file": "Computer Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Django.md"
+                "file": "Computer Wiki.md"
               }
             }
           }
@@ -148,7 +148,24 @@
   },
   "active": "982335c3a1a7be7f",
   "lastOpenFiles": [
+    "Programming Languages/C Language.md",
+    "Web Development/MERN Web Development/React/React Components.md",
+    "Web Development/MERN Web Development/React/React Components/3D Hover Card.md",
+    "Web Development/MERN Web Development/React/React Components/Progressive Typing.md",
+    "Web Development/MERN Web Development.md",
+    "Web Development/MERN Web Development/React/React Context API.md",
     "Computer Wiki.md",
+    "Web Development/Django.md",
+    "Programming Languages/Java.md",
+    "Programming Languages/Java",
+    "Databases/Data Warehousing/Concepts.md",
+    "Databases/Data Warehousing/Overview.md",
+    "Databases/Data Warehousing.md",
+    "Databases/Oracle Database.md",
+    "Databases/Theory.md",
+    "Databases/Data Warehousing/Resources",
+    "Databases/Data Warehousing/Resources/Ad hoc query and how does the process work.md",
+    "Databases/Data Warehousing",
     "Web Development/Electron/Prerequisites.md",
     "Web Development/Electron/MySQL & Electron.md",
     "Web Development/Electron/Hide MenuBar.md",
@@ -157,7 +174,6 @@
     "Web Development/Electron.md",
     "Databases/Theory/How To Deal With a Database With Billions of Records ?.md",
     "Databases/Theory",
-    "Databases/Theory.md",
     "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
     "Databases/MySQL",
     "Databases/MySQL.md",
@@ -167,22 +183,6 @@
     "Courses/Prompt Engineering for ChatGPT.md",
     "Courses/Prompt Engineering for ChatGPT",
     "Courses",
-    "Web Development/Django.md",
-    "Web Development/Django/W3School/Create App.md",
-    "Web Development/Django/W3School/Create Project.md",
-    "Web Development/Django/Swagger UI.md",
-    "Web Development/Django/Implement JWT.md",
-    "Web Development/Django/W3School/Delete Data.md",
-    "Web Development/MERN Web Development/React/React Context API.md",
-    "Web Development/MERN Web Development.md",
-    "Web Development/MERN Web Development/Libraries/Mobx.md",
-    "Web Development/MERN Web Development/Libraries/Mobx/React integration.md",
-    "Web Development/Django/Define Relationships Between Models.md",
-    "FreeCodeCamp.md",
-    "Web Development/Django/W3School/Getting Started.md",
-    "Web Development/Django/W3School",
-    "Web Development/Django",
-    "Projects/Invoice Generator",
-    "Projects"
+    "Web Development/Django/W3School"
   ]
 }
