@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Electron/Hide MenuBar.md",
+                "file": "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Electron/Hide MenuBar.md",
+                "file": "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Electron/Hide MenuBar.md",
+                "file": "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Electron/Hide MenuBar.md"
+                "file": "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "33658f19de98c72f",
   "lastOpenFiles": [
-    "Web Development/Electron/Prerequisites.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1/Motivating Example Building a Meal Plan with a Fusion of Food from Ethiopia and Uzbekistan that is Keto.md",
     "Web Development/Electron/Hide MenuBar.md",
+    "Web Development/Electron/Prerequisites.md",
     "Web Development/Electron/Building your First App.md",
     "Web Development/Electron/MySQL & Electron.md",
     "Web Development/Electron.md",
@@ -183,8 +186,6 @@
     "Databases/Theory.md",
     "Databases/Theory",
     "Programming Languages/Python.md",
-    "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
-    "Courses/Prompt Engineering for ChatGPT/Week1/Motivating Example Building a Meal Plan with a Fusion of Food from Ethiopia and Uzbekistan that is Keto.md",
     "Courses/Prompt Engineering for ChatGPT.md",
     "Courses/Prompt Engineering for ChatGPT/Week1",
     "Courses/Prompt Engineering for ChatGPT",
@@ -204,7 +205,6 @@
     "Web Development/MERN Web Development/Libraries/Mobx.md",
     "Web Development/MERN Web Development/Libraries/Mobx/React integration.md",
     "Web Development/Django/Swagger UI.md",
-    "Web Development/Django/Define Relationships Between Models.md",
     "Web Development/Django/W3School",
     "Web Development/Django",
     "Projects/Invoice Generator",
