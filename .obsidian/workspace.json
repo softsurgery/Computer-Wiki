@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b41c84f799ff1cf",
+        "id": "2f837cd2f1a8657b",
         "type": "tabs",
         "children": [
           {
-            "id": "008c51b09702760e",
+            "id": "982335c3a1a7be7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Web Development/Electron.md",
                 "mode": "source",
                 "source": false
@@ -38,13 +39,15 @@
               "type": "markdown",
               "state": {
                 "file": "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md",
+=======
+                "file": "Computer Wiki.md",
+>>>>>>> 1793eb3518e1c8df994fdce89aa2d8afd05e596f
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +113,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md",
+=======
+                "file": "Computer Wiki.md",
+>>>>>>> 1793eb3518e1c8df994fdce89aa2d8afd05e596f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md",
+=======
+                "file": "Computer Wiki.md",
+>>>>>>> 1793eb3518e1c8df994fdce89aa2d8afd05e596f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md"
+=======
+                "file": "Computer Wiki.md"
+>>>>>>> 1793eb3518e1c8df994fdce89aa2d8afd05e596f
               }
             }
           }
@@ -171,25 +186,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33658f19de98c72f",
+  "active": "982335c3a1a7be7f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
     "Courses/Prompt Engineering for ChatGPT/Week1/Untitled.md",
     "Courses/Prompt Engineering for ChatGPT/Week1/Motivating Example Building a Meal Plan with a Fusion of Food from Ethiopia and Uzbekistan that is Keto.md",
+=======
+    "Programming Languages/C Language.md",
+    "Web Development/MERN Web Development/React/React Components.md",
+    "Web Development/MERN Web Development/React/React Components/3D Hover Card.md",
+    "Web Development/MERN Web Development/React/React Components/Progressive Typing.md",
+    "Web Development/MERN Web Development.md",
+    "Web Development/MERN Web Development/React/React Context API.md",
+    "Computer Wiki.md",
+    "Web Development/Django.md",
+    "Programming Languages/Java.md",
+    "Programming Languages/Java",
+    "Databases/Data Warehousing/Concepts.md",
+    "Databases/Data Warehousing/Overview.md",
+    "Databases/Data Warehousing.md",
+    "Databases/Oracle Database.md",
+    "Databases/Theory.md",
+    "Databases/Data Warehousing/Resources",
+    "Databases/Data Warehousing/Resources/Ad hoc query and how does the process work.md",
+    "Databases/Data Warehousing",
+    "Web Development/Electron/Prerequisites.md",
+    "Web Development/Electron/MySQL & Electron.md",
+>>>>>>> 1793eb3518e1c8df994fdce89aa2d8afd05e596f
     "Web Development/Electron/Hide MenuBar.md",
     "Web Development/Electron/Prerequisites.md",
     "Web Development/Electron/Building your First App.md",
-    "Web Development/Electron/MySQL & Electron.md",
+    "Web Development/Electron",
     "Web Development/Electron.md",
-    "Computer Wiki.md",
     "Databases/Theory/How To Deal With a Database With Billions of Records ?.md",
-    "Databases/Theory.md",
     "Databases/Theory",
+<<<<<<< HEAD
     "Programming Languages/Python.md",
     "Courses/Prompt Engineering for ChatGPT.md",
+=======
+    "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
+    "Databases/MySQL",
+    "Databases/MySQL.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1/Overview of the Course.md",
+    "Courses/Prompt Engineering for ChatGPT/Week1/Motivating Example Building a Meal Plan with a Fusion of Food from Ethiopia and Uzbekistan that is Keto.md",
+>>>>>>> 1793eb3518e1c8df994fdce89aa2d8afd05e596f
     "Courses/Prompt Engineering for ChatGPT/Week1",
+    "Courses/Prompt Engineering for ChatGPT.md",
     "Courses/Prompt Engineering for ChatGPT",
     "Courses",
+<<<<<<< HEAD
     "Web Development/Django/W3School/Create App.md",
     "Web Development/Django/W3School/Create Project.md",
     "Web Development/Electron",
@@ -209,5 +255,8 @@
     "Web Development/Django",
     "Projects/Invoice Generator",
     "Projects"
+=======
+    "Web Development/Django/W3School"
+>>>>>>> 1793eb3518e1c8df994fdce89aa2d8afd05e596f
   ]
 }
