@@ -1,9 +1,7 @@
 In this section, I'm creating rich computer's contents to systematize the new things I uncover while studying or surfing the Internet.
 
 # 1st Layer Topics 
-* [[Github]] 
 # Architecture & Operating Systems
-
 # Programming Languages
 * [[C Language]]
 * [[Python]]
@@ -13,6 +11,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Oracle Database]]
 * [[MySQL]]
 * [[Data Warehousing]]
+# Desktop  Development
 # Web Development
 * [[MERN Web Development]]
 * [[Strapi CMS]]
@@ -20,11 +19,11 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Electron]]
 # Mobile Development
 # Networking
-# Cloud Computing
+# Cloud Computing & DevOps
+* [[Github]] 
 # Artificial Intelligence
 # Mathematics 
 # Archive
 * [[Pascal]]
 # Projects
-
 # Courses

@@ -4,4 +4,5 @@ A data warehouse is constructed by integrating data from multiple heterogeneous 
 
 * [[Overview]]
 * [[Concepts]]
+* [[Terminologies]]
 * 

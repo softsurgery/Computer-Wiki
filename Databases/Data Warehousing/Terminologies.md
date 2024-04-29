@@ -5,21 +5,16 @@ Metadata is simply defined as data about data. The data that are used to represe
 
 In terms of data warehouse, we can define metadata as following −
 - Metadata is a road-map to data warehouse.
-- Metadata in data warehouse defines the warehouse objects. 
+- Metadata in data warehouse defines the warehouse objects.
 - Metadata acts as a directory. This directory helps the decision support system to locate the contents of a data warehouse.
 
 ## Metadata Repository
 
 Metadata repository is an integral part of a data warehouse system. It contains the following metadata −
-
 - **Business metadata** − It contains the data ownership information, business definition, and changing policies.
-    
 - **Operational metadata** − It includes currency of data and data lineage. Currency of data refers to the data being active, archived, or purged. Lineage of data means history of data migrated and transformation applied on it.
-    
 - **Data for mapping from operational environment to data warehouse** − It metadata includes source databases and their contents, data extraction, data partition, cleaning, transformation rules, data refresh and purging rules.
-    
 - **The algorithms for summarization** − It includes dimension algorithms, data on granularity, aggregation, summarizing, etc.
-    
 
 ## Data Cube
 
@@ -46,21 +41,13 @@ The above 3-D table can be represented as 3-D data cube as shown in the followin
 Data marts contain a subset of organization-wide data that is valuable to specific groups of people in an organization. In other words, a data mart contains only those data that is specific to a particular group. For example, the marketing data mart may contain only data related to items, customers, and sales. Data marts are confined to subjects.
 
 ### Points to Remember About Data Marts
-
 - Windows-based or Unix/Linux-based servers are used to implement data marts. They are implemented on low-cost servers.
-    
 - The implementation cycle of a data mart is measured in short periods of time, i.e., in weeks rather than months or years.
-    
 - The life cycle of data marts may be complex in the long run, if their planning and design are not organization-wide.
-    
 - Data marts are small in size.
-    
 - Data marts are customized by department.
-    
 - The source of a data mart is departmentally structured data warehouse.
-    
 - Data marts are flexible.
-    
 
 The following figure shows a graphical representation of data marts.
 
