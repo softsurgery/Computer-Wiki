@@ -3,4 +3,5 @@ A data warehouse is constructed by integrating data from multiple heterogeneous 
 	Before proceeding with this tutorial, you should have an understanding of basic database concepts such as schema, ER model, structured query language, etc.
 
 * [[Overview]]
+* [[Concepts]]
 * 

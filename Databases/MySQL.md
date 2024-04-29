@@ -1,1 +1,1 @@
-[[]]
+[[MySQL Shortcuts by ChatGPT]]

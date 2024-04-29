@@ -12,6 +12,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Theory]]
 * [[Oracle Database]]
 * [[MySQL]]
+* [[Data Warehousing]]
 # Web Development
 * [[MERN Web Development]]
 * [[Strapi CMS]]
