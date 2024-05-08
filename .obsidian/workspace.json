@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MySQL.md",
+                "file": "Web Development/PHP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MySQL.md",
+                "file": "Web Development/PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/MySQL.md",
+                "file": "Web Development/PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/MySQL.md"
+                "file": "Web Development/PHP.md"
               }
             }
           }
@@ -148,16 +148,29 @@
   },
   "active": "e93795ea84cff251",
   "lastOpenFiles": [
-    "Databases/Oracle Database/Run Oracle Database 21c in Docker.md",
-    "Databases/Oracle Database",
-    "Databases/Oracle Database.md",
+    "Web Development/PHP/Additional Content/PHP Interview Questions  1.md",
+    "Web Development/PHP/Additional Content/include() Vs require().md",
+    "Web Development/PHP/Additional Content/constant() Vs define().md",
+    "Web Development/PHP.md",
+    "Computer Wiki.md",
+    "Web Development/PHP/Basics/Constants Types.md",
+    "Web Development/PHP/Additional Content",
+    "Web Development/PHP/Basics/Variable Types.md",
+    "Web Development/PHP/Basics/Syntax Overview.md",
+    "Web Development/PHP/Basics/Environment Setup.md",
+    "Web Development/PHP/Basics",
+    "Web Development/PHP",
     "Databases/Theory.md",
-    "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
+    "Databases/Oracle Database.md",
     "Databases/MySQL.md",
     "Databases/Data Warehousing.md",
     "Databases/Data Warehousing/Terminologies.md",
+    "Web Development/Django/W3School/Create Project.md",
+    "Web Development/Django.md",
+    "Databases/Oracle Database/Run Oracle Database 21c in Docker.md",
+    "Databases/Oracle Database",
+    "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
     "Databases/Data Warehousing/Concepts.md",
-    "Computer Wiki.md",
     "Databases/Data Warehousing/Overview.md"
   ]
 }
