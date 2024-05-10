@@ -22,8 +22,9 @@ The PHP Hypertext Preprocessor (PHP) is a programming language that allows web
 * Prerequisites
 	* Before proceeding with this tutorial you should have at least basic understanding of computer programming, Internet, Database, and MySQL etc is very helpful.
 
-# PHP Basics
+# Tutorialspoint
 ---
+## Basics
 * [[Environment Setup]]
 * [[Syntax Overview]]
 * [[Variable Types]]
@@ -33,11 +34,18 @@ The PHP Hypertext Preprocessor (PHP) is a programming language that allows web
 * [[Loops]]
 * [[Arrays]]
 * [[Strings]]
-* [[Web Concepts]]
-* [[File Inclusion]]
-* [[File Handling]]
 * [[Math Functions]]
 * [[Compound Types]]
+* [[Date & Time]]
+* [[File Inclusion]]
+* [[File Handling]]
+* [[Scalar Type Declarations]]
+* [[Return Type Declarations]]
+* [[Type Casting]]
+
+## Web Concepts
+* [[Web Concepts]]
+
 
 # Additional Content
 ---

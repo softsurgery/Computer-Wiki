@@ -1,0 +1,77 @@
+[PHP - Scalar Type Declarations](https://www.tutorialspoint.com/php/php_scalar_type_declarations.htm)
+
+The feature of providing type hints has been in PHP since version 5. **Type hinting** refers to the practice of providing the data type of a parameter in the function definition. Before PHP 7, it was possible to use only the array, callable, and class for type hints in a function. PHP 7 onwards, you can also insert type hints for parameters of scalar data type such as int, string, bool, etc.
+
+PHP is a dynamically (and weakly) typed language. Hence, you don’t need to declare the type of the parameter when a function is defined, something which is necessary in a statically type language like C or Java.
+
+A typical definition of function in PHP is as follows −
+
+```php
+function addition($x, $y) {
+   echo "First number: $x Second number: $y Addition: " . $x+$y;
+}
+```
+
+Here, we assume that the parameters $x and $y are numeric. However, even if the values passed to the function aren’t numeric, the PHP parser tries to cast the variables into compatible type as far as possible.
+
+If one of the values passed is a string representation of a number, and the second is a numeric variable, PHP casts the string variable to numeric in order to perform the addition operation.
+
+## Scalar Type Declarations in PHP 7
+
+A new feature introduced with PHP version 7 allows defining a function with parameters whose data type can be specified within the parenthesis.
+
+PHP 7 has introduced the following Scalar type declarations −
+
+- Int
+- Float
+- Bool
+- String
+- Interfaces
+- Array
+- Callable
+
+Older versions of PHP allowed only the array, callable and class types to be used as type hints. Furthermore, in the older versions of PHP (PHP 5), the fatal error used to be a recoverable error while the new release (PHP 7) returns a throwable error.
+
+Scalar type declaration is implemented in two modes −
+
+- **Coercive Mode** − Coercive is the default mode and need not to be specified.
+- **Strict Mode** − Strict mode has to be explicitly hinted.
+
+## Coercive Mode
+
+The addition() function defined in the earlier example can now be re-written by incorporating the type declarations as follows −
+
+```php
+function addition(int $x, int $y) {
+   echo "First number: $x Second number: $y Addition: " . $x+$y;
+}
+```
+
+Note that the parser still casts the incompatible types i.e., string to an int if the string contains an integer as earlier.
+
+Obviously, this is because PHP is a weakly typed language, as PHP tries to coerce a variable of string type to an integer. PHP 7 has introduced a strict mode feature that addresses this issue.
+
+## Strict Mode
+
+To counter the weak type checking of PHP, a strict mode has been introduced. This mode is enabled with a **declare statement** −
+
+declare (strict_types=1);
+
+You should put this statement at the top of the PHP script (usually just below the PHP tag). This means that the strictness of typing for scalars is configured on a per-file basis.
+
+In the weak mode, the strict_types flag is 0. Setting it to 1 forces the PHP parser to check the compatibility of the parameters and values passed. Add this statement in the above code and check the result. It will show the following error message −
+
+```
+Fatal error: Uncaught TypeError: addition(): 
+Argument #1 ($x) must be of type int, string given, 
+called in add.php on line 12 and defined in add.php:4
+```
+
+```
+Stack trace:
+#0 add.php(12): addition('10', 20)
+#1 {main}
+   thrown in add.php on line 4
+```
+
+The type-hinting feature is mostly used by IDEs to prompt the user about the expected types of the parameters used in the function declaration. The following screenshot shows the VS Code editor popping up the function prototype as you type.
