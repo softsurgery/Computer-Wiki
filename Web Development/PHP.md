@@ -34,6 +34,7 @@ The PHP Hypertext Preprocessor (PHP) is a programming language that allows web
 * [[Loops]]
 * [[Arrays]]
 * [[Strings]]
+* [[Functions]]
 * [[Math Functions]]
 * [[Compound Types]]
 * [[Date & Time]]
@@ -42,9 +43,12 @@ The PHP Hypertext Preprocessor (PHP) is a programming language that allows web
 * [[Scalar Type Declarations]]
 * [[Return Type Declarations]]
 * [[Type Casting]]
+* [[Type Juggling]]
+* [[Heredoc & Nowdoc]]
 
 ## Web Concepts
 * [[Web Concepts]]
+* [[GET & POST]]
 
 
 # Additional Content

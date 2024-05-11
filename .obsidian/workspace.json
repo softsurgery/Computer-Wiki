@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a58ef07438861c",
+        "id": "d3ae9615710181d3",
         "type": "tabs",
         "children": [
           {
-            "id": "e93795ea84cff251",
+            "id": "7e0a408e8510e6b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/PHP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/PHP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,34 +138,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e93795ea84cff251",
+  "active": "7e0a408e8510e6b1",
   "lastOpenFiles": [
-    "Web Development/PHP/Basics/Type Casting.md",
-    "Web Development/PHP.md",
-    "Web Development/PHP/Web Concepts",
-    "Web Development/PHP/Web Concepts.md",
-    "Web Development/PHP/Basics/Return Type Declarations.md",
-    "Web Development/PHP/Basics/Scalar Type Declarations.md",
-    "Web Development/Strapi CMS.md",
-    "Web Development/PHP/Basics/Date & Time.md",
-    "Web Development/PHP/Basics/File Inclusion.md",
-    "Web Development/PHP/Basics/Compound Types.md",
-    "Web Development/PHP/Basics/Heredoc & Nowdoc.md",
-    "Web Development/PHP/Basics/Math Functions.md",
-    "Web Development/PHP/Basics/Loops.md",
-    "Web Development/PHP/Basics/File Handling.md",
-    "Web Development/PHP/Basics/GET & POST.md",
-    "Web Development/PHP/Web Concepts/Web Concepts.md",
-    "Web Development/PHP/Basics/Strings.md",
-    "Web Development/PHP/Basics/Arrays.md",
-    "Web Development/PHP/Basics/Conditions.md",
-    "Web Development/PHP/Basics/Operator Types.md",
     "Computer Wiki.md",
-    "Web Development/PHP/Additional Content/PHP Interview Questions  1.md",
-    "Projects/Invoice Generator.md",
-    "Projects/Invoice Generator/Is having a Purchase Order (PO) number for my invoice model necessary?.md",
-    "Programming Languages/C Language.md",
-    "Web Development/PHP/Additional Content/include() Vs require().md",
+    "Untitled.canvas",
+    "1st Layer Topics/Github.md",
+    "Web Development/PHP.md",
+    "Web Development/PHP/Basics/Functions.md",
+    "Web Development/PHP/Basics/Variable Types.md",
+    "Web Development/PHP/Basics/Functions/Recursive Functions.md",
+    "Web Development/PHP/Basics/Functions/Passing Functions.md",
+    "Web Development/PHP/Basics/Functions/Returning Values.md",
+    "Web Development/PHP/Basics/Functions/Variable Arguments.md",
+    "Web Development/PHP/Basics/Functions/Named Arguments.md",
+    "Web Development/PHP/Basics/Functions/Default Arguments.md",
+    "Web Development/PHP/Basics/Functions/Call by Reference.md",
+    "Web Development/PHP/Basics/Functions/Function Parameters.md",
+    "Web Development/PHP/Basics/Functions/Call by Value.md",
+    "Web Development/PHP/Basics/Functions",
+    "Courses/Prompt Engineering for ChatGPT.md",
+    "Databases/Oracle Database.md",
+    "1st Layer Topics/Github/Untitled.md",
+    "Web Development/Strapi CMS/Configuration.md",
+    "Web Development/Strapi CMS/Configurtion/Database.md",
+    "Web Development/Strapi CMS.md",
+    "Web Development/Electron.md",
+    "Web Development/Electron/Hide MenuBar.md",
+    "Untitled 1.canvas",
+    "2024-05-10.md",
+    "Web Development/Electron/MySQL & Electron.md",
+    "Web Development/PHP/Basics/Type Juggling.md",
+    "Web Development/PHP/Web Concepts",
     "Web Development/PHP/Additional Content",
     "Web Development/PHP/Basics",
     "Web Development/PHP",
