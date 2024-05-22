@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/MERN Web Development/Express/MySQL & Express.md",
+                "file": "Computer Wiki.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/MERN Web Development/Express/MySQL & Express.md",
+                "file": "Computer Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/MERN Web Development/Express/MySQL & Express.md",
+                "file": "Computer Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/MERN Web Development/Express/MySQL & Express.md"
+                "file": "Computer Wiki.md"
               }
             }
           }
@@ -148,13 +148,22 @@
   },
   "active": "7e0a408e8510e6b1",
   "lastOpenFiles": [
-    "Web Development/MERN Web Development.md",
+    "Web Development/Django/Implement JWT.md",
+    "Web Development/Django/Swagger UI.md",
+    "Web Development/Django/W3School/Getting Started.md",
+    "Web Development/Django.md",
+    "Databases/Oracle Database/Run Oracle Database 21c in Docker.md",
+    "Courses/Prompt Engineering for ChatGPT.md",
     "Computer Wiki.md",
+    "Web Development/Theory.md",
+    "Web Development/Theory/System Design- Rules for Building complex web applications.md",
+    "Web Development/Theory",
+    "Web Development/MERN Web Development/Express/MySQL & Express.md",
+    "Web Development/MERN Web Development.md",
     "Cloud Computing & DevOps/Docker.md",
     "Cloud Computing & DevOps/Github.md",
     "Cloud Computing & DevOps",
     "Databases/MySQL.md",
-    "Web Development/MERN Web Development/Express/MySQL & Express.md",
     "Web Development/Electron.md",
     "Web Development/MERN Web Development/Express/Express JS Tutorial.md",
     "Web Development/PHP.md",
@@ -169,15 +178,7 @@
     "Web Development/PHP/Basics/Functions/Returning Values.md",
     "Web Development/PHP/Basics/Functions/Variable Arguments.md",
     "Web Development/PHP/Basics/Functions/Named Arguments.md",
-    "Web Development/PHP/Basics/Functions/Default Arguments.md",
-    "Web Development/PHP/Basics/Functions/Call by Reference.md",
-    "Web Development/PHP/Basics/Functions/Function Parameters.md",
-    "Web Development/PHP/Basics/Functions/Call by Value.md",
     "Web Development/PHP/Basics/Functions",
-    "Courses/Prompt Engineering for ChatGPT.md",
-    "Databases/Oracle Database.md",
-    "1st Layer Topics/Github/Untitled.md",
-    "Web Development/Strapi CMS/Configuration.md",
     "Untitled 1.canvas",
     "Web Development/PHP/Web Concepts",
     "Web Development/PHP/Additional Content",

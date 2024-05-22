@@ -1,18 +1,20 @@
 In this section, I'm creating rich computer's contents to systematize the new things I uncover while studying or surfing the Internet.
 
 # 1st Layer Topics 
+
 # Architecture & Operating Systems
 # Programming Languages
 * [[C Language]]
 * [[Python]]
 * [[Java]]
 # Databases
-* [[Theory]]
+* [[Databases/Theory]]
 * [[Oracle Database]]
 * [[MySQL]]
 * [[Data Warehousing]]
 # Desktop  Development
 # Web Development
+* [[Web Development/Theory|Theory]]
 * [[PHP]]
 * [[MERN Web Development]]
 * [[Strapi CMS]]
