@@ -8,11 +8,12 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Python]]
 * [[Java]]
 # Databases
-* [[Databases/Theory]]
+* [[Databases/Theory|Theory]]
 * [[Oracle Database]]
 * [[MySQL]]
 * [[Data Warehousing]]
 # Desktop  Development
+* [[Electron]]
 # Web Development
 * [[Web Development/Theory|Theory]]
 * [[PHP]]
