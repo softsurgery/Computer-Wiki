@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Wiki.md",
+                "file": "Web Development/NestJS/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Wiki.md",
+                "file": "Web Development/NestJS/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Wiki.md",
+                "file": "Web Development/NestJS/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Wiki.md"
+                "file": "Web Development/NestJS/Introduction.md"
               }
             }
           }
@@ -148,42 +148,43 @@
   },
   "active": "7e0a408e8510e6b1",
   "lastOpenFiles": [
-    "Programming Languages/Java.md",
+    "Web Development/NestJS/Additional Resources/@Transactional.md",
+    "Web Development/NestJS/Introduction.md",
+    "Web Development/NestJS/Additional Resources",
+    "Web Development/Electron/Building your First App.md",
+    "Web Development/Electron.md",
+    "Databases/ORMs/TypeORM/Automatic migrations on deployment.md",
+    "Web Development/NestJS.md",
     "Computer Wiki.md",
+    "Databases/ORMs/TypeORM.md",
+    "Databases/ORMs.md",
+    "Web Development/MERN Web Development.md",
+    "Databases/ORMs/TypeORM",
+    "Personal Experience/Untitled.md",
+    "Databases/ORMs",
+    "Personal Experience",
+    "Databases/Oracle Database/Run Oracle Database 21c in Docker.md",
+    "Cloud Computing & DevOps/Docker.md",
+    "Databases/MySQL/MySQL and phpMyAdmin with Docker.md",
+    "Web Development/NestJS",
+    "Web Development/MERN Web Development/Express/What is Middleware.md",
+    "Programming Languages/Java.md",
     "Databases/Oracle Database.md",
     "Databases/Theory.md",
     "Databases/Theory/Data Versioning Explained.md",
     "Databases/Theory/How To Deal With a Database With Billions of Records ?.md",
     "Databases/Data Warehousing.md",
     "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
-    "Cloud Computing & DevOps/Docker.md",
     "Databases/MySQL.md",
     "Web Development/MERN Web Development/Express/MySQL & Express.md",
-    "Databases/MySQL/MySQL and phpMyAdmin with Docker.md",
     "Web Development/Django/Implement JWT.md",
     "Web Development/Django/Swagger UI.md",
-    "Web Development/Django/W3School/Getting Started.md",
-    "Web Development/Django.md",
-    "Databases/Oracle Database/Run Oracle Database 21c in Docker.md",
-    "Courses/Prompt Engineering for ChatGPT.md",
-    "Web Development/Theory.md",
-    "Web Development/Theory/System Design- Rules for Building complex web applications.md",
     "Web Development/Theory",
-    "Web Development/MERN Web Development.md",
-    "Cloud Computing & DevOps/Github.md",
     "Cloud Computing & DevOps",
-    "Web Development/Electron.md",
-    "Web Development/MERN Web Development/Express/Express JS Tutorial.md",
-    "Web Development/PHP.md",
-    "Web Development/MERN Web Development/Technologies & Tools/Set Up MongoDB.md",
     "Web Development/MERN Web Development/Express",
     "Untitled.canvas",
     "Web Development/PHP/Basics/Functions",
     "Untitled 1.canvas",
-    "Web Development/PHP/Web Concepts",
-    "Web Development/PHP/Additional Content",
-    "Web Development/PHP/Basics",
-    "Web Development/PHP",
-    "Databases/Oracle Database"
+    "Web Development/PHP/Web Concepts"
   ]
 }

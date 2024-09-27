@@ -12,6 +12,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Oracle Database]]
 * [[MySQL]]
 * [[Data Warehousing]]
+* [[ORMs]]
 # Desktop  Development
 * [[Electron]]
 # Web Development
@@ -20,6 +21,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[MERN Web Development]]
 * [[Strapi CMS]]
 * [[Django]]
+* [[NestJS]]
 * [[Electron]]
 # Mobile Development
 # Networking
