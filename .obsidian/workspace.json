@@ -11,11 +11,14 @@
             "id": "7e0a408e8510e6b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Computer Wiki.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -69,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5
   },
   "right": {
     "id": "de0b78d92291e492",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Wiki.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Wiki.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Wiki.md"
+                "file": "Untitled 1.canvas"
               }
             }
           }
@@ -146,40 +149,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e0a408e8510e6b1",
+  "active": "f7f9ffecaf984f2c",
   "lastOpenFiles": [
-    "Programming Languages/Java.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Databases/MySQL/MySQL and phpMyAdmin with Docker (Useless).md",
+    "Cloud Computing & DevOps/Docker.md",
+    "Web Development/Django/Implement JWT.md",
+    "Web Development/Django/Define Relationships Between Models.md",
+    "Databases/Data Warehousing/Overview.md",
+    "Web Development/Theory/System Design- Rules for Building complex web applications.md",
+    "Cloud Computing & DevOps/Github.md",
+    "Archive/Pascal.md",
+    "Web Development/MERN Web Development/React/React Environment (Deprecated).md",
+    "Web Development/MERN Web Development/Express/Express JS Tutorial.md",
+    "Databases/Theory/How To Deal With a Database With Billions of Records ?.md",
+    "Web Development/PHP/Basics/Date & Time.md",
+    "Web Development/PHP.md",
     "Computer Wiki.md",
+    "Web Development/JHipster/JHipster Quick Start.md",
+    "Web Development/JHipster.md",
+    "Web Development/MERN Web Development.md",
+    "Web Development/JHipster",
+    "Programming Languages/Java.md",
     "Databases/Oracle Database.md",
     "Databases/Theory.md",
     "Databases/Theory/Data Versioning Explained.md",
-    "Databases/Theory/How To Deal With a Database With Billions of Records ?.md",
     "Databases/Data Warehousing.md",
     "Databases/MySQL/MySQL Shortcuts by ChatGPT.md",
-    "Cloud Computing & DevOps/Docker.md",
     "Databases/MySQL.md",
     "Web Development/MERN Web Development/Express/MySQL & Express.md",
-    "Databases/MySQL/MySQL and phpMyAdmin with Docker.md",
-    "Web Development/Django/Implement JWT.md",
-    "Web Development/Django/Swagger UI.md",
-    "Web Development/Django/W3School/Getting Started.md",
-    "Web Development/Django.md",
-    "Databases/Oracle Database/Run Oracle Database 21c in Docker.md",
-    "Courses/Prompt Engineering for ChatGPT.md",
-    "Web Development/Theory.md",
-    "Web Development/Theory/System Design- Rules for Building complex web applications.md",
     "Web Development/Theory",
-    "Web Development/MERN Web Development.md",
-    "Cloud Computing & DevOps/Github.md",
     "Cloud Computing & DevOps",
-    "Web Development/Electron.md",
-    "Web Development/MERN Web Development/Express/Express JS Tutorial.md",
-    "Web Development/PHP.md",
-    "Web Development/MERN Web Development/Technologies & Tools/Set Up MongoDB.md",
     "Web Development/MERN Web Development/Express",
-    "Untitled.canvas",
     "Web Development/PHP/Basics/Functions",
-    "Untitled 1.canvas",
     "Web Development/PHP/Web Concepts",
     "Web Development/PHP/Additional Content",
     "Web Development/PHP/Basics",

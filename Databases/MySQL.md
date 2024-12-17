@@ -1,2 +1,2 @@
 [[MySQL Shortcuts by ChatGPT]]
-[[MySQL and phpMyAdmin with Docker]]
+[[MySQL and phpMyAdmin with Docker (Useless)]]

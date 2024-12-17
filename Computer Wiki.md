@@ -21,6 +21,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Strapi CMS]]
 * [[Django]]
 * [[Electron]]
+* [[JHipster]]
 # Mobile Development
 # Networking
 # Cloud Computing & DevOps
