@@ -1,0 +1,5 @@
+> It would be highly beneficial to have a transaction annotation that allows developers to create SQL transactions easily and automatically rollback the transaction if an error is thrown within the annotated code block.
+
+For which ORM would you like this to work? TypeORM, MikroORM, Primsa, Sequelize, Mongoose, Typegoose, Orchid, Knex, Kysely, Bookshelf, Objection, one of the dozens of others that probably exists withing the Node ecosystem, as Nest isn't tied down to a particular ORM implementation.
+
+With Spring, there's Hibernate which is pretty standard as far as I can recall. That's not the case with Nest, so we'd have to implement some sort of crazy abstraction to be open to working with **every** ORM out there, or at least let there be some compatibility shim for it, or we'd just have to leave it to the ORM authors for their library specific approach.
