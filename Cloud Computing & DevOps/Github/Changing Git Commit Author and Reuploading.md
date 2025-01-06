@@ -37,7 +37,6 @@ If you need to change the author for all commits, you can use a filter-branch or
 git filter-repo --commit-callback ' commit.author_name = "New Author Name" commit.author_email = "new-email@example.com" commit.committer_name = "New Author Name" commit.committer_email = "new-email@example.com"
 ```
 ### Notes
-
 - **Force Push Required:** Since you're rewriting commit history, you’ll need to force push (`git push --force`) the changes.
 - **Backups Recommended:** Always back up your repository before rewriting history to avoid accidental data loss.
 - **Access to the Other Account's Repository:** Ensure you have the necessary permissions to push to the new repository or Git account.
