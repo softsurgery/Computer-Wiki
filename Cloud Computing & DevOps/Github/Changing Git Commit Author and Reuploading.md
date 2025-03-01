@@ -17,12 +17,14 @@ git rebase -i HEAD~<number-of-commits>
 3. **Mark Commits for Editing** In the interactive rebase editor, change `pick` to `edit` for the commits you want to modify. Save and close the editor.
 4. **Change the Author Information** For each commit, run the following commands:
 ```bash
-git commit --amend --author="New Author Name <new-email@example.com>" --no-edit git rebase --continue
+git commit --amend --author="New Author Name <new-email@example.com>" --no-edit 
+git rebase --continue
 ```
 	Repeat this process for all commits marked for editing.
 5. **Push to a New Repository** After modifying the commit history, push the changes to a new repository under a different account:
 ```bash
-git remote add new-origin <new-repository-url> git push --force new-origin main
+git remote add new-origin <new-repository-url> 
+git push --force new-origin main
 ```  
 
 ### Alternative Method: Using a Script for Bulk Changes
