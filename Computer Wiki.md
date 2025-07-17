@@ -19,6 +19,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Web Development/Theory|Theory]]
 * [[CSS]]
 * [[PHP]]
+* [[Angular]]
 * [[MERN Web Development]]
 * [[Strapi CMS]]
 * [[Django]]
@@ -38,3 +39,8 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Pascal]]
 # Projects
 # Courses
+
+
+
+--- 
+[[Mathematics Wiki]]
