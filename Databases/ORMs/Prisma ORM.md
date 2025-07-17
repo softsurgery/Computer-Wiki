@@ -1,0 +1,1 @@
+[[Manage Migrations Manually in Prisma]]
