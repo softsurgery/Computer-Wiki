@@ -44,3 +44,4 @@ In this section, I'm creating rich computer's contents to systematize the new th
 
 --- 
 [[Mathematics Wiki]]
+[[Problem Solving]]

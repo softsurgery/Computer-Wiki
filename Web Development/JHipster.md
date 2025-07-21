@@ -41,3 +41,5 @@ JHipster provides tools to generate a project with a Java stack on the server si
 		Maven or Gradle
 		Editor for Datamodeling (visual and textual)
 
+
+[[JHipster Quick Start]]
