@@ -28,6 +28,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[JHipster]]
 # Mobile Development
 # Networking
+* [[Network Fundamentals]]
 # Cloud Computing & DevOps
 * [[Github]] 
 * [[Docker]]
@@ -37,11 +38,6 @@ In this section, I'm creating rich computer's contents to systematize the new th
 # Mathematics 
 # Archive
 * [[Pascal]]
-# Projects
-# Courses
-
-
-
 --- 
 [[Mathematics Wiki]]
 [[Problem Solving]]
