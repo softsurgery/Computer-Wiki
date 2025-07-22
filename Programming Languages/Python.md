@@ -33,7 +33,11 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 * [[08-Loops]]
 * [[09-Functions]]
 * [[10- Lambda Expression]]
-
-
-
-
+# Data Structure
+---
+* [[01-Lists and Arrays]]
+* [[02-Stacks]]
+* [[03-Queues]]
+# Frameworks & Libraries
+---
+* [[Django]]
