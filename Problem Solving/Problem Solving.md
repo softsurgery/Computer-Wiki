@@ -1,6 +1,10 @@
+# Cheat Sheets
+
+* [[Sorting Algorithms]]
+* [[Graph Algorithms Summary (BFS & DFS)]]
 # General concepts
 * [[General - Automata to Validate Number]]
-* [[General -  Container with Most Water (Two Pointers)]]
+* [[General - Container with Most Water (Two Pointers)]]
 * [[General - Delete Middle (Slow Fast)]]
 * [[General - Flatten]]
 * [[General - Median of Sorted]]
@@ -15,3 +19,8 @@
 * [[Advent of Code  -  Day 21]]
 
 # LeetCode
+* [[LeetCode - 24.Swap Nodes in Pairs]]
+* [[LeetCode - 36.Valid Sudoku]]
+* [[LeetCode - 37.Sudoku Solver]]
+* [[LeetCode - 212.WordSearch II]]
+
