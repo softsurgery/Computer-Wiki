@@ -1,2 +1,3 @@
+* [[Interviews]]
 * [[French Professional Dictionary]]
-* [[HR Question Preparations]]
+* [[Things I’ve Changed My Mind on After 10+ Years in Software Development (Prime Time)]]
