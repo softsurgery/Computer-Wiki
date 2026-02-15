@@ -8,6 +8,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[C Language]]
 * [[Python]]
 * [[Java]]
+* [[Rust]]
 # Databases
 * [[Databases/Theory|Theory]]
 * [[Oracle Database]]
