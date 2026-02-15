@@ -4,5 +4,6 @@ Machine learning algorithms are computational techniques that enable computer sy
 
 # Machine Learning Notes
 * [[Comprehensive Guide to Machine Learning Fundamentals]]
-
-# Machine Learning Algorithms using JupyterNotebook
+* [[Model Evaluation & Hyperparameter Tuning - Complete Guide]]
+* [[Gradient Descent]]
+* [[Principal Component Analysis (PCA)]]
