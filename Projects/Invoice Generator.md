@@ -1,6 +1,6 @@
 # Questions 
-* [[What's a PO Number ?]]
-* [[Is having a Purchase Order (PO) number for my invoice model necessary?]]
+* [[What's a PO Number]]
+* [[Is having a Purchase Order (PO) number for my invoice model necessary]]
 
 # Resources
 **Class Diagram**
