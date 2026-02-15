@@ -34,7 +34,7 @@ MERN stands for MongoDB, Express, React, Node, after the four key technologies 
 <hr>
 
 # Additional Resources
-* [[What is an API?]]
+* [[What is an API]]
 * [[State Management]]
 * [[Say No to SQL]]
 * [[State Management]] 

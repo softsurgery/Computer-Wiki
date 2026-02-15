@@ -55,7 +55,7 @@ Components in React can be stateful or stateless.
 - A stateless component is a pure function that doesn't have a local state and side-effects to manage.
 
 A [pure function](https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript) is a function without any side-effects. This means that a function always returns the same output for the same input.
-### [[What is a React Side-Effect?]]
+### [[What is a React Side-Effect]]
 
 If we take out the stateful and side-effects logic from a functional component, we have a stateless component. Also, the stateful and side-effects logic can be reusable elsewhere in the app. So it makes sense to isolate them from a component as much as possible.
 
