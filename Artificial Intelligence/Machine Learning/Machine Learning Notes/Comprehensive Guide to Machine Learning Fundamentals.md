@@ -123,8 +123,3 @@
 | “Why can’t the model recognize letters not in the training set?” | Because it only learns from what it has seen. It can’t generalize to completely new categories. |
 | “What’s the difference between classification and regression?”   | Classification predicts categories, regression predicts numbers.                                |
 | “Why do we need to normalize data?”                              | So that all features contribute equally to the model.                                           |
-
----
-
-
-![[Pasted image 20260103210652.png]]

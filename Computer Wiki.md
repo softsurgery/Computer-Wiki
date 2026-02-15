@@ -39,9 +39,10 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Security/Theory|Theory]]
 # Artificial Intelligence
 * [[Machine Learning]]
+* [[Deep Learning]]
 # Mathematics 
 # Archive
 * [[Pascal]]
 --- 
-[[Mathematics Wiki]]
-[[Problem Solving]]
+* [[Mathematics Wiki]]
+* [[Problem Solving]]
