@@ -41,6 +41,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 # Artificial Intelligence
 * [[Machine Learning]]
 * [[Deep Learning]]
+* [[Agentic AI]]
 # Mathematics 
 # Archive
 * [[Pascal]]
