@@ -39,7 +39,7 @@ The PHP Hypertext Preprocessor (PHP) is a programming language that allows web
 * [[Compound Types]]
 * [[Date & Time]]
 * [[File Inclusion]]
-* [[File Handling]]
+* [[Web Development/PHP/Basics/File Handling]]
 * [[Scalar Type Declarations]]
 * [[Return Type Declarations]]
 * [[Type Casting]]
