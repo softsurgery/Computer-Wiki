@@ -5,7 +5,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 # Architecture & Operating Systems
 * [[BPM]]
 # Programming Languages
-* [[C Language]]
+* [[C Langauage]]
 * [[Python]]
 * [[Java]]
 * [[Rust]]
@@ -31,13 +31,15 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Electron]]
 * [[JHipster]]
 # Mobile Development
+* [[React Native]]
 # Networking
 * [[Network Fundamentals]]
 # Cloud Computing & DevOps
 * [[Github]] 
 * [[Docker]]
 # Security
-* [[Security/Theory|Theory]]
+* [[Security Theory|Security Theory]]
+* 
 # Artificial Intelligence
 * [[Machine Learning]]
 * [[Deep Learning]]
@@ -48,3 +50,4 @@ In this section, I'm creating rich computer's contents to systematize the new th
 --- 
 * [[Mathematics Wiki]]
 * [[Problem Solving]]
+* [[Project Ideas]]
