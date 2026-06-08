@@ -25,7 +25,7 @@ The PHP Hypertext Preprocessor (PHP) is a programming language that allows web
 # Tutorialspoint
 ---
 ## Basics
-* [[Environment Setup]]
+* [[Web Development/PHP/Basics/Environment Setup]]
 * [[Syntax Overview]]
 * [[Variable Types]]
 * [[Constants Types]]

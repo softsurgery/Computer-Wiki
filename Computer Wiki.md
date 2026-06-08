@@ -3,7 +3,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 # 1st Layer Topics 
 
 # Architecture & Operating Systems
-* [[BPM]]
+* [[ASM]]
 # Programming Languages
 * [[C Langauage]]
 * [[Python]]
@@ -16,6 +16,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Data Warehousing]]
 * [[ORMs]]
 # Development
+* [[BPM]]
 * [[GraphQL]]
 # Desktop  Development
 * [[Electron]]

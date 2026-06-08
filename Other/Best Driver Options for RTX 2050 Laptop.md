@@ -44,7 +44,7 @@ sudo apt install build-essential linux-headers-$(uname -r) dkms
 sudo apt install nvidia-driver-575-open  # Best for your laptop
 # OR
 sudo apt install nvidia-driver-570       # If you want proven stability
-# OR  
+# OR
 sudo apt install nvidia-driver-550       # Most conservative
 
 # 3. Reboot
