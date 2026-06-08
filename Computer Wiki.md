@@ -51,3 +51,5 @@ In this section, I'm creating rich computer's contents to systematize the new th
 * [[Mathematics Wiki]]
 * [[Problem Solving]]
 * [[Project Ideas]]
+# Other
+* [[Best Driver Options for RTX 2050 Laptop]]
