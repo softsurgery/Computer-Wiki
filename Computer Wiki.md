@@ -1,57 +1,86 @@
 In this section, I'm creating rich computer's contents to systematize the new things I uncover while studying or surfing the Internet.
 
-# 1st Layer Topics 
+# 1st Layer Topics
 
 # Architecture & Operating Systems
-* [[ASM]]
+
+- [[ASM]]
+
 # Programming Languages
-* [[C Langauage]]
-* [[Python]]
-* [[Java]]
-* [[Rust]]
+
+- [[C Langauage]]
+- [[Python]]
+- [[Java]]
+- [[Rust]]
+
 # Databases
-* [[Databases/Theory|Theory]]
-* [[Oracle Database]]
-* [[MySQL]]
-* [[Data Warehousing]]
-* [[ORMs]]
+
+- [[Databases/Theory|Theory]]
+- [[Oracle Database]]
+- [[MySQL]]
+- [[Data Warehousing]]
+- [[ORMs]]
+
 # Development
-* [[BPM]]
-* [[GraphQL]]
-# Desktop  Development
-* [[Electron]]
+
+- [[BPM]]
+- [[GraphQL]]
+
+# Desktop Development
+
+- [[Electron]]
+
 # Web Development
-* [[Web Development/Theory|Theory]]
-* [[CSS]]
-* [[PHP]]
-* [[Angular]]
-* [[MERN Web Development]]
-* [[Strapi CMS]]
-* [[Django]]
-* [[NestJS]]
-* [[Electron]]
-* [[JHipster]]
+
+- [[Web Development/Theory|Theory]]
+- [[CSS]]
+- [[PHP]]
+- [[Angular]]
+- [[MERN Web Development]]
+- [[Strapi CMS]]
+- [[Django]]
+- [[NestJS]]
+- [[Electron]]
+- [[JHipster]]
+
 # Mobile Development
-* [[React Native]]
+
+- [[React Native]]
+
 # Networking
-* [[Network Fundamentals]]
+
+- [[Network Fundamentals]]
+
 # Cloud Computing & DevOps
-* [[Github]] 
-* [[Docker]]
+
+- [[Github]]
+- [[Docker]]
+- [[Minio]]
+
 # Security
-* [[Security Theory|Security Theory]]
-* 
+
+- [[Security Theory|Security Theory]]
+-
+
 # Artificial Intelligence
-* [[Machine Learning]]
-* [[Deep Learning]]
-* [[Prompt Engineering Guide]]
-* [[Agentic AI]]
-# Mathematics 
+
+- [[Machine Learning]]
+- [[Deep Learning]]
+- [[Prompt Engineering Guide]]
+- [[Agentic AI]]
+
+# Mathematics
+
 # Archive
-* [[Pascal]]
---- 
-* [[Mathematics Wiki]]
-* [[Problem Solving]]
-* [[Project Ideas]]
+
+- [[Pascal]]
+
+---
+
+- [[Mathematics Wiki]]
+- [[Problem Solving]]
+- [[Project Ideas]]
+
 # Other
-* [[Best Driver Options for RTX 2050 Laptop]]
+
+- [[Best Driver Options for RTX 2050 Laptop]]
