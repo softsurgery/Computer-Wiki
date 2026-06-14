@@ -1,7 +1,7 @@
 # Cheat Sheets
-
 * [[Sorting Algorithms]]
 * [[Graph Algorithms Summary (BFS & DFS)]]
+* [[Binary Search Tree (BST) — Complete Guide]]
 # General concepts
 * [[General - Automata to Validate Number]]
 * [[General - Container with Most Water (Two Pointers)]]
