@@ -5,4 +5,7 @@ A data warehouse is constructed by integrating data from multiple heterogeneous 
 * [[Overview]]
 * [[Concepts]]
 * [[Terminologies]]
-* 
+
+# Exercices
+* [[How to solve warehousing study case]]
+* [[Can you explain the difference between a natural and user hierarchy?]]

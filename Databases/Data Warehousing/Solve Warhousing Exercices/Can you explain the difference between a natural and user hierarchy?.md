@@ -1,0 +1,5 @@
+A **natural hierarchy** is formed by an inherent, logical relationship between data attributes, where every child attribute has exactly one specific parent attribute. A classic example of a natural hierarchy is a product classification: Category → Sub-Category → Product.
+
+A **user hierarchy** is a custom navigation path designed to make it easier for users to browse and analyze a dimension. Unlike a natural hierarchy, it does not have to be based on strict, real-world parent-child relationships, and creating one does not affect how the data cube is physically stored. An example of a user hierarchy that lacks a natural relationship would be organizing items first by color and then by size (e.g., Item Color → Item Size).
+
+In short, natural hierarchies represent strict relational dependencies in your data, while user hierarchies are flexible tools built purely for analytical convenience
