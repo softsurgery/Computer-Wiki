@@ -1,1 +1,2 @@
 * [[Claude Code + Ollama]]
+* [[LangChain]]
