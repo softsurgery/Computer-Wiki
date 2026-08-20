@@ -68,6 +68,7 @@ In this section, I'm creating rich computer's contents to systematize the new th
 - [[Deep Learning]]
 - [[Prompt Engineering Guide]]
 - [[Agentic AI]]
+- [[LangChain]]
 
 # Mathematics
 
@@ -82,5 +83,5 @@ In this section, I'm creating rich computer's contents to systematize the new th
 - [[Project Ideas]]
 
 # Other
-
-- [[Best Driver Options for RTX 2050 Laptop]]
+* [[Installing Antigravity 2.0 (IDE) on Ubuntu]]
+* [[Best Driver Options for RTX 2050 Laptop]]
