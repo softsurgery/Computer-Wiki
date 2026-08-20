@@ -30,6 +30,7 @@ MERN stands for MongoDB, Express, React, Node, after the four key technologies 
 * [[Redux]]
 * [[Mobx]]
 * [[Prisma ORM]]
+* [[TanStack React Query]]
 
 <hr>
 
