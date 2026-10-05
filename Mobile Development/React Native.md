@@ -5,3 +5,4 @@
 * [[React Native Reanimated]]
 # Additional Content
 * [[CursorWindowAllocationException]]
+* [[CORS Configuration for Web and React Native Applications]]
