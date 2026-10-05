@@ -11,7 +11,7 @@
 3. **Networking Fundamentals**
     - IP addresses
     - Subnets
-    - DNS
+    - DNS ( [[Domain Name System (DNS) An Introduction for Developers]])
     - Ports
     - TCP/IP
     - Routing
