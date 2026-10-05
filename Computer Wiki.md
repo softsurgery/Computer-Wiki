@@ -20,7 +20,9 @@ In this section, I'm creating rich computer's contents to systematize the new th
 - [[MySQL]]
 - [[Data Warehousing]]
 - [[ORMs]]
+# Information System
 
+* [[Information Systems/Theory|Theory]]
 # Development
 
 - [[BPM]]
@@ -61,7 +63,6 @@ In this section, I'm creating rich computer's contents to systematize the new th
 # Security
 
 - [[Security Theory|Security Theory]]
--
 
 # Artificial Intelligence
 
