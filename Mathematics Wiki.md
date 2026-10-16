@@ -1,1 +1,2 @@
-[[Hex Coordinate System - Pixel to (r, q, s)]]
+* [[Linear Algebra]]
+* [[Hex Coordinate System - Pixel to (r, q, s)]]
